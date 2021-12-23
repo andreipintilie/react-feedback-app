@@ -4,7 +4,11 @@
 
 If you want to test the application, it is available [here](https://pedantic-kepler-3f1fa7.netlify.app/)
 
-In order to start both the client-side and the server-side, you need to use `npm run dev`.
+In order to start the client-side, you need to use the `npm run start` command.
+
+In order to start the server-side (json-server), you need to use the `npm run server` command.
+
+In order to start both the client-side and the server-side, you need to use `npm run dev` (which uses concurrently).
 
 ## Technologies
 
